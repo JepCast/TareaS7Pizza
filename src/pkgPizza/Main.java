@@ -81,18 +81,18 @@ public class Main {
     //El metodo main en el que estan los toppings y la pizza, junto con la impresion de los datos de la misma
     public static void main(String[] args) {
 //        Main pizza = new Main("Pepperoni Deluxe", Topping.tomate, Topping.queso, Topping.pepperoni);
-//        System.out.println("\nDetalles de la pizza:");
-//        System.out.println(pizza);
-//        System.out.println("Precio total: Q" + pizza.getTotalPrice());
-//        System.out.println("\n───────────────────────────────");
-//        //Cambio de precio del queso
-//        pizza.setToppingPrice("Queso", 14.5);
-//        System.out.println("\nDetalles de la Pizza con precio final:");
-//        System.out.println(pizza);
-//        System.out.println("Precio total: Q" + pizza.getTotalPrice());
-//
-//        pizza.preparePizza();
-//        pizza.finishPreparingPizza();
+////        System.out.println("\nDetalles de la pizza:");
+////        System.out.println(pizza);
+////        System.out.println("Precio total: Q" + pizza.getTotalPrice());
+////        System.out.println("\n───────────────────────────────");
+////        //Cambio de precio del queso
+////        pizza.setToppingPrice("Queso", 14.5);
+////        System.out.println("\nDetalles de la Pizza con precio final:");
+////        System.out.println(pizza);
+////        System.out.println("Precio total: Q" + pizza.getTotalPrice());
+////
+////        pizza.preparePizza();
+////        pizza.finishPreparingPizza();
 
         Scanner scanner = new Scanner(System.in);
         while (true){
